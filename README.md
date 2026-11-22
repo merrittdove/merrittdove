@@ -1,9 +1,6 @@
 ## Hi there 👋
 My name is Merritt Dove, and I'm soon to be a graduate of Brigham Young University - Idaho!
 
-<!--
-**merrittdove/merrittdove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ## About Me
 - 🔭 I’m currently working on job applications for chemical laboratories and related positions.
 - 🌱 I’m currently learning technical writing for chemistry research papers.
@@ -21,4 +18,9 @@ www.linkedin.com/in/merritt-dove-697103229
 • Record keeping.
 • Cross-functional collaboration.
 • Attention to detail.
+
+<!--
+**merrittdove/merrittdove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 -->
